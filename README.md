@@ -1,3 +1,3 @@
 # kinosite_layout - Вёрстка сайта с макета
 
-![alt text](/img/full.jpg)
+![alt text](/img/full.jpeg)
